@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshajay&label=Profile%20views&color=0e75b6&style=flat" alt="rakshajay" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Landing page three.js des & dev](https://github.com/rakshajay/First-Point)
+- 🔭 I’m currently working on [3D Model Editor/Viewer app](https://github.com/rakshajay/3D_Editor_App)
 
 - 🌱 I’m currently learning **React and ES6**
 
