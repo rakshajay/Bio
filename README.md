@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.rakshashetty.com/resume](https://rakshajay.github.io/Raksha-Portfolio/Resume.html)
 
-- ⚡ Fun fact **Love to paint and also to know you**
+- ⚡ Fun fact **Love to paint and people lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
