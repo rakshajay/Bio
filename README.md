@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Automating architectural workflows](https://github.com/rakshajay?tab=repositories)
 
-- 🌱 I’m currently learning **React and ES6**
+- 🌱 I’m currently learning **Revit API**
 
 - 👨‍💻 All of my projects are available at [https://www.rakshashetty.com/](https://rakshajay.github.io/Raksha-Portfolio/index.html)
 
